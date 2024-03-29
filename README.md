@@ -16,7 +16,7 @@ Membuat class _**MarketingDataETL**_ yang memiliki tiga metode:
 ### Task 2: Inheritance & Polymorphism
 - Menggunakan inheritance untuk membuat class _**TargetedMarketingETL**_ yang mewarisi dari _**MarketingDataET**L_. 
 - Menambah metode segment_customers() yang mengelompokkan pelanggan berdasarkan kriteria tertentu (misalnya, pengeluaran total atau kategori produk yang dibeli).
-- Demonstrasi polymorphism dengan meng-override metode transform() dalam **_TargetedMarketingETL**_ untuk menambahkan logika segmentasi pelanggan ke dalam proses transformasi.
+- Demonstrasi polymorphism dengan meng-override metode transform() dalam _**TargetedMarketingETL**_ untuk menambahkan logika segmentasi pelanggan ke dalam proses transformasi.
 
 
 
