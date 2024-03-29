@@ -18,4 +18,7 @@ Membuat class MarketingDataETL yang memiliki tiga metode:
 - Menambah metode segment_customers() yang mengelompokkan pelanggan berdasarkan kriteria tertentu (misalnya, pengeluaran total atau kategori produk yang dibeli).
 - Demonstrasi polymorphism dengan meng-override metode transform() dalam TargetedMarketingETL untuk menambahkan logika segmentasi pelanggan ke dalam proses transformasi.
 
+> Ini adalah kutipan.
+[https://drive.google.com/file/d/13wg8hC7kpMSzNeS2c27dTKplRKkLgNfn/view?usp=drive_link](https://www.marketing_data.com)
+
 
